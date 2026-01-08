@@ -14,10 +14,10 @@ El nucleo de esta obra se basa en la desmitificacion de la existencia a traves d
 α + β + γ = ω
 
 Donde:
-**α (Alpha):** Espiritu / Inteligencia directriz.
-**β (Beta):** Energia / Campo de manifestacion.
-**γ (Gamma):** Materia / Sustancia densa.
-**ω (Omega):** Conciencia / El resultado evolutivo.
+* **α (Alpha):** Espiritu / Inteligencia directriz.
+* **β (Beta):** Energia / Campo de manifestacion.
+* **γ (Gamma):** Materia / Sustancia densa.
+* **ω (Omega):** Conciencia / El resultado evolutivo.
 
 Esta obra explica como la interaccion de estas variables produce la realidad que experimentamos y define nuestro proceso evolutivo.
 
