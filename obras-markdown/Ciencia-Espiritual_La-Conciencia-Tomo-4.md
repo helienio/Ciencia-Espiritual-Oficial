@@ -1,3 +1,19 @@
+# 🔬 CIENCIA ESPIRITUAL: PROTOCOLO DE ACCESO
+---
+**Volumen:** Tomo IV: La Conciencia  
+**Variable de Estudio:** Omega ($\omega$) - El Resultado Evolutivo y Estado de Lucidez  
+**Estado de la Fuente:** Oficial y Verificada.
+---
+
+### ⚠️ ADVERTENCIA AL LECTOR
+Este documento no es una obra religiosa, mística ni esotérica. Es un tratado de **Lógica Aplicada a la Conciencia**. 
+
+1. **PROHIBICIÓN DE FE:** Se solicita al lector que **NO CREA** en lo que va a leer. Utilice su capacidad de análisis, razón y empirismo.
+2. **GRATUIDAD UNIVERSAL:** Este conocimiento es un derecho natural. Cualquier cobro por esta información es un fraude.
+3. **ECUACIÓN MAESTRA:** El estudio de este volumen se rige por la interacción fundamental: 
+$$\alpha + \beta + \gamma = \omega$$
+
+---
 # **Libro 4: Ciencia Espiritual: La Conciencia (ω)**
 
 **Índice Completo**
@@ -8058,5 +8074,6 @@ biología y la teoría de juegos evolutiva de Martin Nowak sobre la cooperación
 - **Investigación de la Conciencia Global:** El Proyecto de Conciencia Global (GCP) y la
 investigación de Rupert Sheldrake sobre los campos morfogenéticos como modelos de
 un campo de información colectivo.
+
 
 
