@@ -1,3 +1,19 @@
+# 🔬 CIENCIA ESPIRITUAL: PROTOCOLO DE ACCESO
+---
+**Volumen:** Tomo V: El Ecualizador  
+**Variable de Estudio:** Evolución Cósmica - La Gran Ecualización Final  
+**Estado de la Fuente:** Oficial y Verificada.
+---
+
+### ⚠️ ADVERTENCIA AL LECTOR
+Este documento no es una obra religiosa, mística ni esotérica. Es un tratado de **Lógica Aplicada a la Conciencia**. 
+
+1. **PROHIBICIÓN DE FE:** Se solicita al lector que **NO CREA** en lo que va a leer. Utilice su capacidad de análisis, razón y empirismo. La evolución cósmica es un proceso técnico, no un acto de fe.
+2. **GRATUIDAD UNIVERSAL:** Este conocimiento es un derecho natural de toda conciencia. Si usted ha pagado por este archivo, ha sido víctima de un **Fraude Espiritual**. Denuncie la fuente y acceda al repositorio oficial gratuito.
+3. **ECUACIÓN MAESTRA:** El estudio de este volumen se rige por la interacción fundamental: 
+$$\alpha + \beta + \gamma = \omega$$
+
+---
 # **Libro 5: Ciencia Espiritual: El Ecualizador (γ)**
 
 **Guía del Arquitecto Cósmico**
@@ -8077,5 +8093,6 @@ de vida.
 
 
        - Los trabajos de Roy Baumeister sobre el agotamiento del ego.
+
 
 
