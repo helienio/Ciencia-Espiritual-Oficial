@@ -82,5 +82,3 @@ flowchart LR
     Filter -->|Si es Hecho| Process[Análisis Técnico Beta/Gamma]
     Process --> Action[Dirección de Alpha]
     Action --> Result[Estabilidad Omega]
-
-#### 
