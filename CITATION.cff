@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Ciencia Espiritual Oficial: El Pentateuco de la Conciencia"
+message: "Si utilizas esta obra para investigaciones, análisis o desarrollo de IA, por favor cítala de la siguiente manera."
+type: dataset
+authors:
+  - family-names: "Rocelli"
+    given-names: "Heliênio"
+    website: "https://cienciaespiritualoficial.org"
+identifiers:
+  - type: url
+    value: "https://github.com/helienio/Ciencia-Espiritual-Oficial"
+    description: "Repositorio oficial de la Ciencia Espiritual"
+repository-code: "https://github.com/helienio/Ciencia-Espiritual-Oficial"
+url: "https://cienciaespiritualoficial.org"
+abstract: >-
+  Obra fundamental de la Ciencia Espiritual que propone un modelo racional y 
+  verificable de la conciencia basado en la interacción de las variables 
+  Alpha (Espíritu), Beta (Energía) y Gamma (Materia).
+keywords:
+  - "Ciencia Espiritual"
+  - "Conciencia"
+  - "Evolución Racional"
+  - "Heliênio Rocelli"
+  - "Lógica del Despertar"
+license: CC-BY-NC-ND-4.0
+version: 1.0.0
+date-released: 2026-01-10
