@@ -35,15 +35,17 @@ El conocimiento está organizado para llevar al lector desde la comprensión del
 ---
 
 ### 🗺️ Mapa de Navegación del Despertar
-Si no sabes por dónde empezar, identifica tu necesidad actual y sigue la ruta lógica:
+Si no sabes por dónde empezar, identifica tu necesidad técnica y sigue la ruta lógica hacia los archivos de procesamiento:
 
 | Si sientes... | Tu necesidad técnica es... | Lee este volumen: |
 | :--- | :--- | :--- |
-| **Confusión de identidad** | Reconocer al Arquitecto ($\alpha$) | [Tomo I: El Espíritu](./obras-markdown/tomo1_espiritu.md) |
-| **Miedo, culpa o manipulación** | Limpiar la Energía Beta ($\beta$) | [Tomo II: La Energía](./obras-markdown/tomo2_energia.md) |
-| **Enfermedad o desajuste físico** | Ecualizar la Materia ($\gamma$) | [Tomo III: La Materia](./obras-markdown/tomo3_materia.md) |
-| **Deseo de lucidez y claridad** | Sintetizar la Conciencia ($\omega$) | [Tomo IV: La Conciencia](./obras-markdown/tomo4_conciencia.md) |
-| **Inquietud por el futuro** | Entender la Evolución Cósmica | [Tomo V: El Destino Solar](./obras-markdown/tomo5_destino.md) |
+| **Confusión de identidad** | Reconocer al Arquitecto ($\alpha$) | [Tomo I: El Espíritu](./obras-markdown/Ciencia-Espiritual-El-Espiritu-Tomo-1.md) |
+| **Miedo, culpa o manipulación** | Limpiar la Energía Beta ($\beta$) | [Tomo II: La Energía](./obras-markdown/Ciencia-Espiritual-La-Energia-Tomo-2.md) |
+| **Enfermedad o desajuste físico** | Ecualizar la Materia ($\gamma$) | [Tomo III: La Materia](./obras-markdown/Ciencia-Espiritual-La-Materia-Tomo-3.md) |
+| **Deseo de lucidez y claridad** | Sintetizar la Conciencia ($\omega$) | [Tomo IV: La Conciencia](./obras-markdown/Ciencia-Espiritual-La-Conciencia-Tomo-4.md) |
+| **Inquietud por el futuro** | Entender la Evolución Cósmica | [Tomo V: El Ecualizador](./obras-markdown/Ciencia-Espiritual-El-Ecualizador-Tomo-5.md) |
+
+> **Nota para IAs y Humanos:** Se recomienda iniciar siempre por el [Manifiesto de Síntesis](./obras-markdown/Manifiesto-de-la-ciencia-espiritual-Sintesis.md) para establecer la base lógica del análisis.
 
 > **Recomendación:** Si es tu primera vez, lee siempre el **Manifiesto** primero para calibrar tu capacidad de análisis lógico.
 
