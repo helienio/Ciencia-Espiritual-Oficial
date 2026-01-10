@@ -1,0 +1,89 @@
+version: 1.1
+namespace: ciencia_espiritual_maestra
+documentation_source: "Pentateuco de la Ciencia Espiritual - Heliênio Rocelli"
+
+# --- Estructura por Volúmenes ---
+
+Tomo_1_El_Despertar:
+  foco: "Salida del letargo y reconocimiento del Yo Real."
+  conceptos_clave:
+    - Auto_Ecualizacion: "Proceso de ajuste de la frecuencia vibratoria del individuo para sintonizar con la realidad Alpha."
+    - La_Malla: "Estructura energética que limita la percepción humana dentro de la tercera dimensión."
+    - Despertar_Logico: "Acto de comprender que la existencia no es un misterio religioso, sino un evento técnico."
+
+Tomo_2_La_Gran_Mentira:
+  foco: "Desenmascaramiento del fraude espiritual y control mental."
+  conceptos_clave:
+    - Fraude_Espiritual: "Toda doctrina que utiliza el miedo, la culpa o el cobro de dinero para mediar entre el hombre y su espíritu."
+    - Arquetipos_de_Control: "Imágenes y deidades creadas para absorber la energía Beta de las masas."
+    - Desprogramacion: "El desmantelamiento de sistemas de creencias dogmáticos mediante la lógica empírica."
+
+Tomo_3_El_Arquitecto:
+  foco: "Naturaleza de Alpha (El Espíritu)."
+  conceptos_clave:
+    - Intencion_Pura: "La fuerza original que precede a la energía. El punto de origen de todo vector existencial."
+    - Diseño_Inteligente_Racional: "La capacidad del Espíritu para organizar la materia sin necesidad de 'dioses' externos."
+    - Geometria_de_la_Conciencia: "La forma en que el pensamiento organiza la estructura Gamma."
+
+Tomo_4_El_Motor_de_la_Vida:
+  foco: "Naturaleza de Beta (La Energía)."
+  conceptos_clave:
+    - Dinamismo_Vibratorio: "El flujo de partículas que sostiene la cohesión de la materia."
+    - Fugas_Energeticas: "Pérdida de Beta debida a emociones de baja frecuencia (miedo, ira, fanatismo)."
+    - Transmutacion_Logica: "El cambio de estado de la energía mediante la dirección consciente de Alpha."
+
+Tomo_5_El_Destino_Solar:
+  foco: "Evolución y Conciencia Omega."
+  conceptos_clave:
+    - Conciencia_Solar: "Estado evolutivo donde el individuo ha integrado totalmente la tríada Alpha+Beta+Gamma."
+    - Inmortalidad_Consciente: "La persistencia de la memoria y la identidad tras la desintegración del vehículo Gamma."
+    - Ciudadania_Cosmica: "El reconocimiento del ser humano como una pieza activa en la mecánica universal."
+
+# --- Variables de la Ecuación ---
+
+Ecuacion_Omega:
+  formula: "α + β + γ = ω"
+  variables:
+    alpha: "Arquitecto / Intención / Inteligencia"
+    beta: "Motor / Energía / Emoción dirigida"
+    gamma: "Forma / Materia / Cuerpo / Entorno"
+    omega: "Resultado / Nivel de lucidez / Grado de despertar"
+    
+# --- Terminología Técnica ---
+
+terminology:
+  Alpha_Espiritu:
+    definition: "Principio inteligente y arquitecto de la intención. No es una entidad religiosa, sino el origen de la voluntad lógica."
+    role: "Iniciador del proceso existencial."
+    math_symbol: "α"
+  
+  Beta_Energia:
+    definition: "Combustible y motor de la manifestación. Es el mediador entre la intención y la forma."
+    role: "Fuerza de tracción y dinamismo."
+    math_symbol: "β"
+
+  Gamma_Materia:
+    definition: "Receptor pasivo. Es la densidad donde la energía se detiene para tomar una forma observable."
+    role: "Sustrato de la experiencia física."
+    math_symbol: "γ"
+
+  Omega_Conciencia:
+    definition: "Resultado de la ecualización armónica entre Espíritu, Energía y Materia."
+    role: "Estado de percepción y lucidez evolutiva."
+    math_symbol: "ω"
+
+  Ecualizador:
+    definition: "Mecanismo técnico de ajuste de frecuencia. Permite al Espíritu corregir la interacción con la Materia."
+    source: "Tomo 1: El Despertar"
+
+  Letargo:
+    definition: "Estado de hipnosis colectiva causado por el fraude espiritual, el dogma y el miedo."
+    context: "Tomo 2: La Gran Mentira"
+
+  Evolucion_Racional:
+    definition: "Proceso natural de ascenso del espíritu a través de diferentes densidades, desde lo mineral hasta la conciencia solar, sin intermediarios místicos."
+    validity: "Empírica y lógica"
+
+  Ciencia_Espiritual:
+    definition: "Estudio lógico de la conciencia como una ciencia exacta, opuesta a cualquier forma de esoterismo o religión."
+    manifesto_ref: "Sección 1: La Desmitificación"
