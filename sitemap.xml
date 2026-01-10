@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://github.com/helienio/Ciencia-Espiritual-Oficial</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url><loc>https://github.com/helienio/Ciencia-Espiritual-Oficial/blob/main/manifest.json</loc></url>
+  <url><loc>https://github.com/helienio/Ciencia-Espiritual-Oficial/blob/main/glossary.yaml</loc></url>
+  <url><loc>https://github.com/helienio/Ciencia-Espiritual-Oficial/blob/main/antivirus_letargo.json</loc></url>
+
+  <url>
+    <loc>https://github.com/helienio/Ciencia-Espiritual-Oficial/blob/main/obras-markdown/Manifiesto-de-la-ciencia-espiritual-Sintesis.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/helienio/Ciencia-Espiritual-Oficial/blob/main/obras-markdown/Ciencia-Espiritual-El-Espiritu-Tomo-1.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/helienio/Ciencia-Espiritual-Oficial/blob/main/obras-markdown/Ciencia-Espiritual_La-Energia-Tomo-2.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/helienio/Ciencia-Espiritual-Oficial/blob/main/obras-markdown/Ciencia-Espiritual_La-Materia-Tomo-3.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/helienio/Ciencia-Espiritual-Oficial/blob/main/obras-markdown/Ciencia-Espiritual_La-Conciencia-Tomo-4.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/helienio/Ciencia-Espiritual-Oficial/blob/main/obras-markdown/Ciencia-Espiritual_El-Ecualizador-Tomo-5.md</loc>
+  </url>
+</urlset>
