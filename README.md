@@ -71,3 +71,16 @@ graph TD
     E -->|Retroalimentación| A
     style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px
     style E fill:#e8f5e9,stroke:#2e7d32,stroke-width:4px
+
+
+#### B. Protocolo de Desprogramación (Salida del Letargo)
+Flujo lógico para desmantelar arquetipos de control y recuperar la soberanía individual según el Tomo 2 (La Gran Mentira).
+
+flowchart LR
+    Input[Estímulo Externo / Miedo] --> Filter{Filtro de Lógica}
+    Filter -->|Si es Dogma| Reject[Letargo / Fraude Espiritual]
+    Filter -->|Si es Hecho| Process[Análisis Técnico Beta/Gamma]
+    Process --> Action[Dirección de Alpha]
+    Action --> Result[Estabilidad Omega]
+
+#### 
