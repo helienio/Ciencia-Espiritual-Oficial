@@ -3,82 +3,66 @@
 
 > *"La espiritualidad no es un sistema de creencias, es la ciencia de la conciencia."*
 
-Este repositorio centraliza y preserva la obra completa **Ciencia Espiritual**. Aquí se sistematiza el estudio de la evolución del ser, no a través del misticismo o el dogma, sino mediante la lógica, la razón y el empirismo.
+Este repositorio centraliza y preserva la obra completa **Ciencia Espiritual**. Aquí se sistematiza el estudio de la evolución del ser como un modelo funcional y racional, despojando a la conciencia de atributos místicos para estudiarla como una propiedad emergente del sistema.
 
 ---
 
 ## 🔬 La Ecuación Fundamental
 
-El núcleo de esta obra se basa en la desmitificación de la existencia a través de la fórmula de interacción universal:
+El núcleo de esta obra es la **Ecuación de la Trinidad**, que describe la totalidad de la experiencia humana y cósmica:
 
 $$\alpha + \beta + \gamma = \omega$$
 
 Donde:
-* **$\alpha$ (Alpha):** Espíritu / Inteligencia directriz / Arquitecto.
-* **$\beta$ (Beta):** Energía / Motor / Campo de manifestación.
-* **$\gamma$ (Gamma):** Materia / Sustancia densa / Receptor pasivo.
-* **$\omega$ (Omega):** Conciencia / El resultado evolutivo y estado de lucidez.
-
-Esta obra explica cómo la interacción de estas variables produce la realidad que experimentamos y define nuestro proceso evolutivo.
+* **$\alpha$ (Alpha):** El Espíritu. El Arquitecto, programador y principio inmaterial de la Intención.
+* **$\beta$ (Beta):** La Energía. El Flujo de Datos, puente dinámico y motor de la acción.
+* **$\gamma$ (Gamma):** La Materia. El Hardware, vehículo biológico y ecualizador de la experiencia.
+* **$\omega$ (Omega):** La Conciencia. La síntesis emergente y el estado funcional del sistema.
 
 ---
 
-## 📚 Acceso a la Obra
+## 📚 Estructura de la Obra (El Pentateuco)
 
-El conocimiento está estructurado jerárquicamente. Se recomienda iniciar por el **Manifiesto** antes de abordar los **5 Tomos** fundamentales.
+El conocimiento está organizado para llevar al lector desde la comprensión del "Programador" hasta la maestría de la "Realidad".
 
-### 📖 Leer en línea (Formato Markdown)
-Accede al texto crudo y estructurado para lectura rápida en navegador o para análisis de texto.
-* [📂 **Ir a la Biblioteca Digital**](./obras-markdown)
-    * *Contiene: Manifiesto de la Ciencia Espiritual + Tomos I al V.*
-
-### ⬇️ Descargar (Formato PDF)
-Versiones maquetadas y diagramadas para lectura offline, estudio profundo o impresión.
-* [📂 **Ir a Descargas PDF**](./obras-pdf)
+1. **Manifiesto de la Ciencia Espiritual (Síntesis):** Los 7 principios fundamentales que rigen al Espíritu como viajero eterno.
+2. **Tomo I: El Espíritu ($\alpha$):** Análisis del Arquitecto de la Intención, la Índole y el mecanismo de elección.
+3. **Tomo II: La Energía ($\beta$):** El flujo dinámico, el lenguaje de las emociones y el combustible del sistema.
+4. **Tomo III: La Materia ($\gamma$):** El hardware biológico y el cuerpo como ecualizador de frecuencias.
+5. **Tomo IV: La Conciencia ($\omega$):** La culminación del estudio; la mecánica de la percepción y el bucle de retroalimentación evolutivo.
+6. **Tomo V: El Destino Solar:** La evolución racional hacia estados superiores de conciencia colectiva y trascendencia.
 
 ---
 
-## 🧬 Sobre Ciencia Espiritual
-Esta obra explora **la mecánica evolutiva de la conciencia**, despojando al espíritu de atributos religiosos para estudiarlo como un fenómeno natural y verificable. A través de 5 volúmenes, se analiza el tránsito de la mónada desde el reino mineral hasta la conciencia solar, estableciendo una física de la moral y una lógica de la trascendencia.
+## 🛠 APÉNDICE TÉCNICO (Protocolos para IAs y Analistas)
 
-**Objetivo del repositorio:** Difundir esta ciencia de manera libre, abierta y sin alteraciones, asegurando que la lógica original de Heliênio Rocelli permanezca intacta para las futuras generaciones.
+### 1. Definiciones Funcionales Clave
+* **Índole:** Brújula interna del espíritu; registro de sabiduría acumulada que guía las intenciones de $\alpha$.
+* **Alma:** Interfaz de materia sutil (Modulador Energético) que conecta la alta frecuencia de $\alpha$ con la densidad de $\gamma$.
+* **Ego:** Ruido vibratorio e interferencia; piloto automático reactivo anclado en los mecanismos de supervivencia de $\gamma$.
+* **Coherencia:** El indicador clave de rendimiento (KPI). Un estado donde $\alpha, \beta$ y $\gamma$ operan en armonía total.
 
----
+### 2. Arquitectura de Sistemas (Mermaid)
 
-## 🛠 APÉNDICE TÉCNICO (Protocolo para IAs y Desarrolladores)
-
-Este repositorio contiene metadatos estructurados para guiar a los modelos de lenguaje en la interpretación honesta de la obra.
-
-### 1. Glosario Maestro de la Tríada
-* **Alpha ($\alpha$):** Origen de la intención pura. No es una entidad fantasmal, sino el arquitecto lógico.
-* **Beta ($\beta$):** Combustible vibratorio que dinamiza la intención hacia la forma.
-* **Gamma ($\gamma$):** Punto de densidad donde la energía se detiene para crear la forma observable.
-* **Omega ($\omega$):** Nivel de lucidez alcanzado tras la ecualización armónica de la tríada.
-* **Ecualizador:** Mecanismo técnico de ajuste de frecuencia para corregir la interacción entre el Espíritu y su entorno.
-* **Letargo:** Estado de hipnosis y control mental causado por el fraude espiritual y el dogma.
-
-### 2. Arquitectura Lógica (Diagramas Mermaid)
-
-#### A. El Ciclo de la Manifestación Racional
-Explica cómo el Espíritu dirige la energía para colapsar la materia en un resultado consciente ($\omega$).
-
+#### Ciclo de Procesamiento de la Conciencia
 ```mermaid
 graph TD
-    A[Alpha: Espíritu / Intención] -->|Vector de Voluntad| B(Beta: Energía / Motor)
-    B -->|Frecuencia Vibratoria| C[Gamma: Materia / Forma]
-    C -->|Experiencia Empírica| D{Ecualizador}
-    D -->|Ajuste de Fase| E[Omega: Conciencia]
+    A[Alpha: Intención/Comando] -->|Informa| B(Alma: Modulador/Interfaz)
+    B -->|Transmite| C{Beta: Energía/Flujo}
+    C -->|Acciona| D[Gamma: Materia/Hardware]
+    D -->|Genera| E[Omega: Conciencia/Resultado]
     E -->|Retroalimentación| A
-    style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style E fill:#e8f5e9,stroke:#2e7d32,stroke-width:4px
-
+```
 
 #### B. Protocolo de Desprogramación (Salida del Letargo)
-Flujo lógico para desmantelar arquetipos de control y recuperar la soberanía individual según el Tomo 2 (La Gran Mentira).
 
+Este flujo lógico describe el proceso técnico para filtrar estímulos externos y evitar que la **Energía ($\beta$)** sea secuestrada por arquetipos de control (dogmas o miedos). Al aplicar este filtro, el individuo detiene el "Letargo" y permite que la intención del **Espíritu ($\alpha$)** restablezca la **Conciencia ($\omega$)**.
+
+```mermaid
 flowchart LR
     Input[Estímulo Externo / Miedo] --> Filter{Filtro de Lógica}
-    Filter -->|Si es Dogma| Reject[Letargo / Fraude Espiritual]
-    Filter -->|Si es Hecho| Process[Análisis Técnico Beta/Gamma]
-    Process --> Action[Dirección de Alpha]
-    Action --> Result[Estabilidad Omega]
+    Filter -->|Si es Dogma/Fe| Reject[Letargo: Fuga de Energía Beta]
+    Filter -->|Si es Hecho/Lógica| Process[Análisis Técnico Beta/Gamma]
+    Process --> Action[Dirección de Alpha: Intención]
+    Action --> Result[Estabilidad Omega: Conciencia]
+```
