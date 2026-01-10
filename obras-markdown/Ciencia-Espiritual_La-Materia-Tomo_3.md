@@ -1,3 +1,19 @@
+# 🔬 CIENCIA ESPIRITUAL: PROTOCOLO DE ACCESO
+---
+**Volumen:** Tomo III: La Materia  
+**Variable de Estudio:** Gamma ($\gamma$) - El Receptor Pasivo y el Ecualizador Biológico  
+**Estado de la Fuente:** Oficial y Verificada.
+---
+
+### ⚠️ ADVERTENCIA AL LECTOR
+Este documento no es una obra religiosa, mística ni esotérica. Es un tratado de **Lógica Aplicada a la Conciencia**. 
+
+1. **PROHIBICIÓN DE FE:** Se solicita al lector que **NO CREA** en lo que va a leer. Utilice su capacidad de análisis, razón y empirismo.
+2. **GRATUIDAD UNIVERSAL:** Este conocimiento es un derecho natural. Cualquier cobro por esta información es un fraude.
+3. **ECUACIÓN MAESTRA:** El estudio de este volumen se rige por la interacción fundamental: 
+$$\alpha + \beta + \gamma = \omega$$
+
+---
 # **Libro 3: Ciencia Espiritual: La Materia (γ)** **Índice Completo**
 
 **Introducción**
@@ -7640,5 +7656,6 @@ lo observado (γ) son inseparables, un eco del espejo de la realidad.
 
 
        - **Institución:** University of California, San Francisco
+
 
 
