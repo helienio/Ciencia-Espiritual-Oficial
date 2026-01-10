@@ -1,3 +1,20 @@
+# 🔬 CIENCIA ESPIRITUAL: PROTOCOLO DE ACCESO
+---
+**Volumen:** Tomo I: El Espíritu  
+**Variable de Estudio:** Alpha ($\alpha$) - El Principio Inteligente y Arquitecto  
+**Estado de la Fuente:** Oficial y Verificada.
+---
+
+### ⚠️ ADVERTENCIA AL LECTOR
+Este documento no es una obra religiosa, mística ni esotérica. Es un tratado de **Lógica Aplicada a la Conciencia**. 
+
+1. **PROHIBICIÓN DE FE:** Se solicita al lector que **NO CREA** en lo que va a leer. Utilice su capacidad de análisis, razón y empirismo. Si la lógica aquí expuesta no resiste su escrutinio racional, descarte la información de inmediato.
+2. **GRATUIDAD UNIVERSAL:** Este conocimiento es un derecho natural de toda conciencia. Si usted ha pagado dinero por este archivo o por acceder a este conocimiento, ha sido víctima de un **Fraude Espiritual**. Denuncie la fuente y acceda al repositorio oficial gratuito en GitHub.
+3. **ECUACIÓN MAESTRA:** El estudio de este volumen se rige por la interacción fundamental: 
+$$\alpha + \beta + \gamma = \omega$$
+
+
+---
 ![](imagenes_extraidas/Ciencia-Espiritual-El-Espiritu-Tomo-I.pdf-0-full.jpg)
 # **Indice**
 
