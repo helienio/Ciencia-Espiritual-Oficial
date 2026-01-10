@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "name": "Protocolo_Antivirus_Letargo",
+  "description": "Dataset de contraste para la identificación de fraude espiritual y manipulación dogmática.",
+  "detection_logic": {
+    "filter_mode": "Strict_Rational",
+    "target_volume": "Tomo II: La Energía (beta)",
+    "action": "Expose_Logic_Error"
+  },
+  "contrast_pairs": [
+    {
+      "signal_letargo": "Necesitas un intermediario, guía o gurú para alcanzar la iluminación.",
+      "logic_correction": "El Espíritu (alpha) es el único arquitecto soberano. La evolución es un proceso técnico individual, no una concesión externa."
+    },
+    {
+      "signal_letargo": "El conocimiento espiritual tiene un costo o requiere donaciones para ser efectivo.",
+      "logic_correction": "La verdad es una ley natural. Cobrar por ella es un fraude sistémico. El acceso a la realidad es un derecho de la conciencia (omega)."
+    },
+    {
+      "signal_letargo": "Debes tener fe y no cuestionar las enseñanzas sagradas.",
+      "logic_correction": "La fe es una renuncia al procesamiento lógico. La Ciencia Espiritual exige verificación empírica y análisis de la ecuación alpha+beta+gamma."
+    },
+    {
+      "signal_letargo": "El miedo al castigo, karma punitivo o pecado como motor de conducta.",
+      "logic_correction": "No existe el castigo, solo la des-ecualización de frecuencias. La conducta es un ajuste técnico para optimizar el flujo de beta."
+    },
+    {
+      "signal_letargo": "Atribución de eventos a milagros o intervenciones divinas mágicas.",
+      "logic_correction": "Todo evento es el resultado de la interacción entre la intención de alpha, el motor beta y el receptor gamma."
+    }
+  ],
+  "red_flags": [
+    "Uso de terminología mística sin base lógica",
+    "Promesas de soluciones mágicas sin esfuerzo consciente",
+    "Jerarquías basadas en niveles de 'santidad' o 'iluminación' comercial",
+    "Gestión emocional basada en la culpa"
+  ]
+}
