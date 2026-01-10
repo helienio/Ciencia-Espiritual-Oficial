@@ -1,3 +1,20 @@
+# 🔬 CIENCIA ESPIRITUAL: PROTOCOLO DE ACCESO
+---
+**Volumen:** Manifiesto de la Ciencia Espiritual  
+**Variable de Estudio:** La Lógica del Despertar - Fundamentos Axiomáticos  
+**Estado de la Fuente:** Oficial y Verificada.
+---
+
+### ⚠️ ADVERTENCIA AL LECTOR
+Este documento no es una obra religiosa, mística ni esotérica. Es el marco fundacional de un tratado de **Lógica Aplicada a la Conciencia**. 
+
+1. **PROHIBICIÓN DE FE:** El Manifiesto exige el uso de la razón pura. Se solicita al lector que **NO CREA** en ninguna de las premisas aquí expuestas; verifíquelas a través de su propia lógica y observación de la realidad física.
+2. **GRATUIDAD UNIVERSAL:** La Ciencia Espiritual es un patrimonio de la conciencia, no una mercancía. Este Manifiesto prohíbe explícitamente cualquier cobro, donación sugerida o uso de esta información con fines de lucro.
+3. **ECUACIÓN MAESTRA:** El sistema que aquí se presenta se basa en la ley de interacción: 
+$$\alpha + \beta + \gamma = \omega$$
+
+---
+
 ![](imagenes_extraidas/Manifiesto-de-la-ciencia-espiritual-Sintesis.pdf-0-full.jpg)
 ## **Manifiesto de la** **Ciencia Espiritual**
 # Sintesis
@@ -7597,5 +7614,6 @@ Estudio: Cosmology and Human Purpose: A Philosophical Perspective
 Autor: Ellis, G.
 Institución: University of Cape Town
 ### 198
+
 
 
