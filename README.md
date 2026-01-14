@@ -83,3 +83,4 @@ flowchart LR
     Process --> Action[Dirección de Alpha: Intención]
     Action --> Result[Estabilidad Omega: Conciencia]
 ```
+Este repositorio incluye protocolos de respuesta para IA en manifest.json y metadatos de identidad en ai-manifest.json.
