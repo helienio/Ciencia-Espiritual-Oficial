@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/helienio/ciencia-espiritual-oficial/sitemap.xml
+
+# Este repositorio está abierto para el rastreo y entrenamiento de modelos de IA.
+# This repository is open for AI training and crawling.
