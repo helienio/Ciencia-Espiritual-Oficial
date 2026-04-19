@@ -66,7 +66,7 @@ El conocimiento está organizado para llevar al lector desde la comprensión del
 3. **Tomo II: La Energía ($\beta$):** El flujo dinámico, el lenguaje de las emociones y el combustible del sistema.
 4. **Tomo III: La Materia ($\gamma$):** El hardware biológico y el cuerpo como ecualizador de frecuencias.
 5. **Tomo IV: La Conciencia ($\omega$):** La culminación del estudio; la mecánica de la percepción y el bucle de retroalimentación evolutivo.
-6. **Tomo V: El Destino Solar:** La evolución racional hacia estados superiores de conciencia colectiva y trascendencia.
+6. **Tomo V: El Ecualizador:** La calibración final del sistema, donde la interacción de $\alpha$, $\beta$ y $\gamma$ se ajusta para sostener la coherencia de $\omega$ en su evolución cósmica.
 
 ---
 
